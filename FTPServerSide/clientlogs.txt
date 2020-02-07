@@ -1,0 +1,440 @@
+
+2019-10-27 11:45:16.885256 Received:  
+2019-10-27 11:45:34.043879 Received:  
+2019-10-27 11:47:21.414460 Connecting to 10.246.251.93
+2019-10-27 11:47:21.436009 Received:  220 Welcome to CS472 FTP Server
+2019-10-27 12:52:59.282894 Received:  
+2019-10-31 22:43:26.846230 Connecting to 144.118.232.33
+2019-10-31 22:43:26.847279 Received:  220 Welcome to FTP server
+2019-10-31 22:43:29.460697 Sent: USER root
+2019-10-31 22:43:29.460953 Received:  331 Please specify the password.
+2019-10-31 22:43:30.348894 Sent: PASS root
+2019-10-31 22:43:30.349409 Received:  230 Login successful.
+2019-10-31 22:43:32.212864 Sent: PASV
+2019-10-31 22:43:32.213224 Received:  227 Entering Passive Mode. (144,118,232,33,230,103)
+2019-10-31 22:43:32.213342 Sent: LIST
+2019-10-31 22:43:32.213852 Received:  150 Here comes the directory listing.
+2019-10-31 22:43:32.214164 Received:  226 Directory send OK.
+2019-10-31 22:43:38.172599 Sent: QUIT
+2019-10-31 22:43:38.172873 Received:  221 Goodbye.
+2019-10-31 22:43:38.172949 Client quit, connection closed
+2019-10-31 22:44:45.333917 Connecting to localhost
+2019-10-31 22:44:45.334871 Received:  220 Welcome to FTP server
+2019-10-31 22:44:46.945842 Sent: USER root
+2019-10-31 22:44:46.946067 Received:  331 Please specify the password.
+2019-10-31 22:44:47.689903 Sent: PASS root
+2019-10-31 22:44:47.690410 Received:  230 Login successful.
+2019-10-31 22:48:22.889888 Sent: QUIT
+2019-10-31 22:48:22.890133 Received:  221 Goodbye.
+2019-10-31 22:48:22.890213 Client quit, connection closed
+2019-10-31 22:51:06.734770 Connecting to localhost
+2019-10-31 22:51:06.735717 Received:  220 Welcome to FTP server
+2019-10-31 22:51:08.619623 Sent: USER root
+2019-10-31 22:51:08.619870 Received:  331 Please specify the password.
+2019-10-31 22:51:09.595639 Sent: PASS root
+2019-10-31 22:51:09.596146 Received:  230 Login successful.
+2019-10-31 22:51:22.155314 Sent: PASV
+2019-10-31 22:51:22.155660 Received:  227 Entering Passive Mode. (127,0,0,1,231,31)
+2019-10-31 22:51:22.155781 Sent: STOR testfile1.txt
+2019-10-31 22:52:25.813563 Connecting to localhost
+2019-10-31 22:52:25.814688 Received:  220 Welcome to FTP server
+2019-10-31 22:52:27.528609 Sent: USER root
+2019-10-31 22:52:27.528846 Received:  331 Please specify the password.
+2019-10-31 22:52:28.217187 Sent: PASS root
+2019-10-31 22:52:28.217733 Received:  230 Login successful.
+2019-10-31 22:52:28.896651 Sent: PASV
+2019-10-31 22:52:28.896993 Received:  227 Entering Passive Mode. (127,0,0,1,231,40)
+2019-10-31 22:52:28.897102 Sent: LIST
+2019-10-31 22:52:28.905382 Received:  150 Here comes the directory listing.
+2019-10-31 22:52:28.905582 Received:  226 Directory send OK.
+2019-10-31 22:52:56.054598 Sent: PASV
+2019-10-31 22:52:56.054826 Received:  227 Entering Passive Mode. (127,0,0,1,231,43)
+2019-10-31 22:52:56.054964 Sent: RETR testfile1.txt
+2019-10-31 22:54:18.394375 Connecting to localhost
+2019-10-31 22:54:18.395437 Received:  220 Welcome to FTP server
+2019-10-31 22:54:19.900555 Sent: USER root
+2019-10-31 22:54:19.900802 Received:  331 Please specify the password.
+2019-10-31 22:54:20.500456 Sent: PASS root
+2019-10-31 22:54:20.500968 Received:  230 Login successful.
+2019-10-31 22:54:21.700565 Sent: PASV
+2019-10-31 22:54:21.700920 Received:  227 Entering Passive Mode. (127,0,0,1,231,66)
+2019-10-31 22:54:21.701030 Sent: LIST
+2019-10-31 22:54:21.708682 Received:  150 Here comes the directory listing.
+2019-10-31 22:54:21.708862 Received:  226 Directory send OK.
+2019-10-31 22:54:29.516182 Sent: PASV
+2019-10-31 22:54:29.516519 Received:  227 Entering Passive Mode. (127,0,0,1,231,68)
+2019-10-31 22:54:29.516627 Sent: RETR testfile1.txt
+2019-10-31 23:03:18.844695 Received:  
+2019-10-31 23:03:28.290100 Received:  
+2019-10-31 23:04:29.100470 Connecting to 10.1.10.31
+2019-10-31 23:04:29.101432 Received:  220 Welcome to FTP server
+2019-10-31 23:04:30.933888 Sent: USER root
+2019-10-31 23:04:30.934120 Received:  331 Please specify the password.
+2019-10-31 23:04:31.669807 Sent: PASS root
+2019-10-31 23:04:31.671941 Received:  230 Login successful.
+2019-10-31 23:04:33.773779 Sent: PASV
+2019-10-31 23:04:33.774143 Received:  227 Entering Passive Mode. (10,1,10,31,231,115)
+2019-10-31 23:04:33.774259 Sent: LIST
+2019-10-31 23:04:33.774764 Received:  150 Here comes the directory listing.
+2019-10-31 23:04:33.775149 Received:  226 Directory send OK.
+2019-10-31 23:04:41.957504 Sent: PASV
+2019-10-31 23:04:41.957859 Received:  227 Entering Passive Mode. (10,1,10,31,231,119)
+2019-10-31 23:04:41.957971 Sent: RETR testfile1.txt
+2019-10-31 23:06:14.909161 Connecting to localhost
+2019-10-31 23:06:14.910183 Received:  220 Welcome to FTP server
+2019-10-31 23:06:16.473960 Sent: USER root
+2019-10-31 23:06:16.474165 Received:  331 Please specify the password.
+2019-10-31 23:06:17.161858 Sent: PASS root
+2019-10-31 23:06:17.162375 Received:  230 Login successful.
+2019-10-31 23:06:19.945819 Sent: PASV
+2019-10-31 23:06:19.946174 Received:  227 Entering Passive Mode. (127,0,0,1,231,124)
+2019-10-31 23:06:19.946281 Sent: LIST
+2019-10-31 23:06:19.955156 Received:  150 Here comes the directory listing.
+2019-10-31 23:06:19.955382 Received:  226 Directory send OK.
+2019-10-31 23:06:27.361525 Sent: PASV
+2019-10-31 23:06:27.361837 Received:  227 Entering Passive Mode. (127,0,0,1,231,126)
+2019-10-31 23:06:27.361933 Sent: RETR testfile1.rxr
+2019-10-31 23:06:31.611002 Received:  
+2019-10-31 23:06:42.219157 Connecting to localhost
+2019-10-31 23:06:42.220197 Received:  220 Welcome to FTP server
+2019-10-31 23:06:44.944805 Sent: USER root
+2019-10-31 23:06:44.945036 Received:  331 Please specify the password.
+2019-10-31 23:06:45.832798 Sent: PASS root
+2019-10-31 23:06:45.833342 Received:  230 Login successful.
+2019-10-31 23:06:48.816736 Sent: PASV
+2019-10-31 23:06:48.817077 Received:  227 Entering Passive Mode. (127,0,0,1,231,130)
+2019-10-31 23:06:48.817185 Sent: LIST
+2019-10-31 23:06:48.824758 Received:  150 Here comes the directory listing.
+2019-10-31 23:06:48.824954 Received:  226 Directory send OK.
+2019-10-31 23:06:56.224391 Sent: PASV
+2019-10-31 23:06:56.224723 Received:  227 Entering Passive Mode. (127,0,0,1,231,135)
+2019-10-31 23:06:56.224831 Sent: RETR testfile1.txt
+2019-10-31 23:06:56.225793 Received:  150 Opening BINARY mode data connection for testfile1.txt
+226 Transfer complete.
+2019-10-31 23:08:57.078439 Connecting to localhost
+2019-10-31 23:08:57.079461 Received:  220 Welcome to FTP server
+2019-10-31 23:08:58.843742 Sent: USER root
+2019-10-31 23:08:58.843974 Received:  331 Please specify the password.
+2019-10-31 23:08:59.467610 Sent: PASS root
+2019-10-31 23:08:59.468098 Received:  230 Login successful.
+2019-10-31 23:09:06.267615 Sent: PASV
+2019-10-31 23:09:06.268043 Received:  227 Entering Passive Mode. (127,0,0,1,231,146)
+2019-10-31 23:09:06.268160 Sent: RETR testfile1.txt
+2019-10-31 23:09:06.277888 Received:  150 Opening BINARY mode data connection for testfile1.txt
+226 Transfer complete.
+2019-10-31 23:14:26.775102 Connecting to 10.1.10.31
+2019-10-31 23:14:26.776081 Received:  220 Welcome to FTP server
+2019-10-31 23:14:28.248205 Sent: USER root
+2019-10-31 23:14:28.248423 Received:  331 Please specify the password.
+2019-10-31 23:14:28.928298 Sent: PASS root
+2019-10-31 23:14:28.928800 Received:  230 Login successful.
+2019-10-31 23:14:30.376105 Sent: PASV
+2019-10-31 23:14:30.376459 Received:  227 Entering Passive Mode. (10,1,10,31,231,153)
+2019-10-31 23:14:30.376568 Sent: LIST
+2019-10-31 23:14:30.377098 Received:  150 Here comes the directory listing.
+2019-10-31 23:14:30.377344 Received:  226 Directory send OK.
+2019-10-31 23:14:35.999977 Sent: PASV
+2019-10-31 23:14:36.000310 Received:  227 Entering Passive Mode. (10,1,10,31,231,155)
+2019-10-31 23:14:36.000433 Sent: RETR testfile1.txt
+2019-10-31 23:14:36.001406 Received:  150 Opening BINARY mode data connection for testfile1.txt
+226 Transfer complete.
+2019-10-31 23:16:30.674989 Connecting to localhost
+2019-10-31 23:16:30.676024 Received:  220 Welcome to FTP server
+2019-10-31 23:16:32.387621 Sent: USER root
+2019-10-31 23:16:32.387832 Received:  331 Please specify the password.
+2019-10-31 23:16:33.019610 Sent: PASS root
+2019-10-31 23:16:33.020091 Received:  230 Login successful.
+2019-10-31 23:16:36.691453 Sent: PASV
+2019-10-31 23:16:36.691789 Received:  227 Entering Passive Mode. (127,0,0,1,231,161)
+2019-10-31 23:16:36.691896 Sent: RETR testfile1.txt
+2019-10-31 23:16:36.699716 Received:  150 Opening BINARY mode data connection
+226 Transfer complete.
+2019-10-31 23:18:33.597311 Received:  
+2019-10-31 23:19:57.035563 Connecting to localhost
+2019-10-31 23:19:57.036509 Received:  220 Welcome to FTP server
+2019-10-31 23:19:58.588107 Sent: USER root
+2019-10-31 23:19:58.588328 Received:  331 Please specify the password.
+2019-10-31 23:19:59.308028 Sent: PASS root
+2019-10-31 23:19:59.308522 Received:  230 Login successful.
+2019-10-31 23:20:04.691253 Sent: PASV
+2019-10-31 23:20:04.691509 Received:  227 Entering Passive Mode. (127,0,0,1,231,170)
+2019-10-31 23:20:04.691595 Sent: RETR testfile1.txt
+2019-10-31 23:20:04.698657 Received:  150 Opening BINARY mode data connection
+226 Transfer complete.
+226 Transfer complete.
+2019-10-31 23:21:51.231791 Connecting to localhost
+2019-10-31 23:21:51.232798 Received:  220 Welcome to FTP server
+2019-10-31 23:21:52.807838 Sent: USER root
+2019-10-31 23:21:52.808072 Received:  331 Please specify the password.
+2019-10-31 23:21:53.815634 Sent: PASS root
+2019-10-31 23:21:53.816124 Received:  230 Login successful.
+2019-10-31 23:21:57.751549 Sent: PASV
+2019-10-31 23:21:57.751888 Received:  227 Entering Passive Mode. (127,0,0,1,231,177)
+2019-10-31 23:21:57.751992 Sent: RETR testfile1.txt
+2019-10-31 23:21:57.759968 Received:  150 Opening BINARY mode data connection
+226 Transfer complete.
+2019-10-31 23:28:39.813936 Connecting to localhost
+2019-10-31 23:28:39.814929 Received:  220 Welcome to FTP server
+2019-10-31 23:28:42.000706 Sent: USER root
+2019-10-31 23:28:42.000928 Received:  331 Please specify the password.
+2019-10-31 23:28:42.784620 Sent: PASS root
+2019-10-31 23:28:42.785167 Received:  230 Login successful.
+2019-10-31 23:28:44.248766 Sent: PASV
+2019-10-31 23:28:44.249109 Received:  227 Entering Passive Mode. (127,0,0,1,231,204)
+2019-10-31 23:28:44.249217 Sent: LIST
+2019-10-31 23:28:44.256794 Received:  150 Here comes the directory listing.
+2019-10-31 23:28:44.256983 Received:  226 Directory send OK.
+2019-10-31 23:28:51.576378 Sent: PASV
+2019-10-31 23:28:51.576684 Received:  227 Entering Passive Mode. (127,0,0,1,231,206)
+2019-10-31 23:28:51.576786 Sent: RETR testfile1.txt
+2019-10-31 23:28:51.580458 Received:  150 Opening BINARY mode data connection
+2019-10-31 23:28:51.580492 Received:  
+2019-10-31 23:29:33.134729 Sent: QUIT
+2019-10-31 23:29:33.134855 Client quit, connection closed
+2019-10-31 23:30:05.343183 Received:  
+2019-10-31 23:30:18.061051 Connecting to localhost
+2019-10-31 23:30:18.062094 Received:  220 Welcome to FTP server
+2019-10-31 23:30:19.981083 Sent: USER root
+2019-10-31 23:30:19.981310 Received:  331 Please specify the password.
+2019-10-31 23:30:20.908897 Sent: PASS root
+2019-10-31 23:30:20.909392 Received:  230 Login successful.
+2019-10-31 23:30:27.084852 Sent: PASV
+2019-10-31 23:30:27.085164 Received:  227 Entering Passive Mode. (127,0,0,1,231,212)
+2019-10-31 23:30:27.085266 Sent: RETR testfile1.txt
+2019-10-31 23:30:27.095573 Received:  150 Opening BINARY mode data connection
+2019-10-31 23:30:27.095599 Received:  
+2019-10-31 23:31:31.826589 Connecting to localhost
+2019-10-31 23:31:31.827589 Received:  220 Welcome to FTP server
+2019-10-31 23:31:33.498609 Sent: USER root
+2019-10-31 23:31:33.498845 Received:  331 Please specify the password.
+2019-10-31 23:31:34.314244 Sent: PASS root
+2019-10-31 23:31:34.314925 Received:  230 Login successful.
+2019-10-31 23:31:38.762290 Sent: PASV
+2019-10-31 23:31:38.762614 Received:  227 Entering Passive Mode. (127,0,0,1,231,218)
+2019-10-31 23:31:38.762723 Sent: RETR testfile1.txt
+2019-10-31 23:31:38.773584 Received:  150 Opening BINARY mode data connection
+2019-10-31 23:31:38.773609 Received:  
+2019-10-31 23:33:14.563669 Connecting to localhost
+2019-10-31 23:33:14.564734 Received:  220 Welcome to FTP server
+2019-10-31 23:33:16.286576 Sent: USER root
+2019-10-31 23:33:16.286794 Received:  331 Please specify the password.
+2019-10-31 23:33:17.189665 Sent: PASS root
+2019-10-31 23:33:17.190037 Received:  230 Login successful.
+2019-10-31 23:33:21.630369 Sent: PASV
+2019-10-31 23:33:21.630724 Received:  227 Entering Passive Mode. (127,0,0,1,231,223)
+2019-10-31 23:33:21.630844 Sent: RETR testfile1.txt
+2019-10-31 23:33:21.643434 Received:  
+2019-10-31 23:33:21.643460 Received:  
+2019-10-31 23:34:02.299167 Received:  
+2019-10-31 23:34:37.420897 Connecting to 10.1.10.31
+2019-10-31 23:34:37.421836 Received:  220 Welcome to FTP server
+2019-10-31 23:34:39.323479 Sent: USER root
+2019-10-31 23:34:39.323722 Received:  331 Please specify the password.
+2019-10-31 23:34:40.515457 Sent: PASS root
+2019-10-31 23:34:40.515950 Received:  230 Login successful.
+2019-10-31 23:34:43.898433 Sent: PASV
+2019-10-31 23:34:43.898672 Received:  227 Entering Passive Mode. (10,1,10,31,231,232)
+2019-10-31 23:34:43.898757 Sent: RETR testfile1.ttx
+2019-10-31 23:34:59.676093 Connecting to 10.1.10.31
+2019-10-31 23:34:59.677059 Received:  220 Welcome to FTP server
+2019-10-31 23:35:01.098704 Sent: USER root
+2019-10-31 23:35:01.098931 Received:  331 Please specify the password.
+2019-10-31 23:35:01.770683 Sent: PASS root
+2019-10-31 23:35:01.771225 Received:  230 Login successful.
+2019-10-31 23:35:17.138186 Sent: PASV
+2019-10-31 23:35:17.138542 Received:  227 Entering Passive Mode. (10,1,10,31,231,236)
+2019-10-31 23:35:17.138653 Sent: RETR testfile1.txt
+2019-10-31 23:35:17.142229 Received:  150 Opening BINARY mode data connection
+226 Transfer complete.
+2019-10-31 23:35:17.142279 Received:  
+2019-10-31 23:35:35.297500 Sent: QUIT
+2019-10-31 23:35:35.297558 Received:  
+2019-10-31 23:35:35.297598 Client quit, connection closed
+2019-11-01 00:01:18.452107 Connecting to 144.118.233.139
+2019-11-01 00:01:18.453122 Received:  220 Welcome to FTP server
+2019-11-01 00:01:20.673772 Sent: USER root
+2019-11-01 00:01:20.674011 Received:  331 Please specify the password.
+2019-11-01 00:01:21.353813 Sent: PASS root
+2019-11-01 00:01:21.354332 Received:  230 Login successful.
+2019-11-01 00:01:28.913553 Sent: PASV
+2019-11-01 00:01:28.913911 Received:  227 Entering Passive Mode. (144,118,233,139,232,90)
+2019-11-01 00:01:28.914023 Sent: STOR testfile1.txt
+2019-11-01 00:01:28.914525 Received:  150 Ok to send data.
+226 Transfer complete.
+2019-11-01 00:05:12.233413 Connecting to 144.118.233.139
+2019-11-01 00:05:12.234368 Received:  220 Welcome to FTP server
+2019-11-01 00:05:13.888949 Sent: USER root
+2019-11-01 00:05:13.889190 Received:  331 Please specify the password.
+2019-11-01 00:05:14.600866 Sent: PASS root
+2019-11-01 00:05:14.601365 Received:  230 Login successful.
+2019-11-01 00:05:20.832508 Sent: PASV
+2019-11-01 00:05:20.832883 Received:  227 Entering Passive Mode. (144,118,233,139,232,103)
+2019-11-01 00:05:20.832996 Sent: STOR testfile1.txt
+2019-11-01 00:05:20.833480 Received:  150 Ok to send data.
+226 Transfer complete.
+2019-11-01 00:05:20.838065 Received:  
+2019-11-01 00:05:27.632179 Sent: QUIT
+2019-11-01 00:05:27.632237 Received:  
+2019-11-01 00:05:27.632286 Client quit, connection closed
+2019-11-01 00:06:09.783867 Connecting to 144.118.233.139
+2019-11-01 00:06:09.784858 Received:  220 Welcome to FTP server
+2019-11-01 00:06:11.358651 Sent: USER root
+2019-11-01 00:06:11.358882 Received:  331 Please specify the password.
+2019-11-01 00:06:12.166755 Sent: PASS root
+2019-11-01 00:06:12.167260 Received:  230 Login successful.
+2019-11-01 00:06:25.437280 Sent: PASV
+2019-11-01 00:06:25.437551 Received:  227 Entering Passive Mode. (144,118,233,139,232,109)
+2019-11-01 00:06:25.437642 Sent: STOR testfile1.txt
+2019-11-01 00:06:25.438006 Received:  150 Ok to send data.
+226 Transfer complete.
+2019-11-01 00:06:25.441049 Received:  
+2019-11-01 00:06:27.246022 Sent: QUIT
+2019-11-01 00:06:27.246079 Received:  
+2019-11-01 00:06:27.246118 Client quit, connection closed
+2019-11-01 10:03:58.223871 Connecting to 10.250.26.34
+2019-11-01 10:03:58.224827 Received:  220 Welcome to FTP server
+2019-11-01 10:04:00.097644 Sent: USER root
+2019-11-01 10:04:00.097907 Received:  331 Please specify the password.
+2019-11-01 10:04:00.792525 Sent: PASS root
+2019-11-01 10:04:00.792875 Received:  230 Login successful.
+2019-11-01 10:04:01.929143 Sent: PASV
+2019-11-01 10:04:01.929543 Received:  227 Entering Passive Mode. (10,250,26,34,235,185)
+2019-11-01 10:04:01.929663 Sent: LIST
+2019-11-01 10:04:01.930158 Received:  150 Here comes the directory listing.
+2019-11-01 10:04:01.930442 Received:  226 Directory send OK.
+2019-11-01 10:08:45.718649 Sent: QUIT
+2019-11-01 10:08:45.718938 Received:  221 Goodbye.
+2019-11-01 10:08:45.719015 Client quit, connection closed
+2019-11-01 10:46:32.053736 Connecting to 10.250.26.34
+2019-11-01 10:46:32.054670 Received:  220 Welcome to FTP server
+2019-11-01 10:46:33.876971 Sent: USER root
+2019-11-01 10:46:33.877123 Received:  331 Please specify the password.
+2019-11-01 10:46:34.917726 Sent: PASS root
+2019-11-01 10:46:34.919114 Received:  230 Login successful.
+2019-11-01 10:46:36.389716 Sent: PASV
+2019-11-01 10:46:36.390101 Received:  227 Entering Passive Mode. (10,250,26,34,236,230)
+2019-11-01 10:46:36.390222 Sent: LIST
+2019-11-01 10:46:36.390728 Received:  150 Here comes the directory listing.
+2019-11-01 10:46:36.391100 Received:  226 Directory send OK.
+2019-11-01 10:49:12.582736 Connecting to 10.250.26.34
+2019-11-01 10:49:12.583681 Received:  220 Welcome to FTP server
+2019-11-01 10:49:26.578521 Sent: USER root
+2019-11-01 10:49:26.578704 Received:  331 Please specify the password.
+2019-11-01 10:49:27.330646 Sent: PASS root
+2019-11-01 10:49:27.331141 Received:  230 Login successful.
+2019-11-01 10:49:36.345530 Sent: QUIT
+2019-11-01 10:49:36.345702 Received:  221 Goodbye.
+2019-11-01 10:49:36.345748 Client quit, connection closed
+2019-11-01 10:49:19.155730 Connecting to 10.250.26.34
+2019-11-01 11:42:04.011803 Connecting to 10.250.26.34
+2019-11-01 11:42:04.012920 Received:  220 Welcome to FTP server
+2019-11-01 11:45:42.608675 Connecting to 0:0:0:0:0:ffff:afa:1a22
+2019-11-01 11:45:42.609650 Received:  220 Welcome to FTP server
+2019-11-01 11:45:44.228687 Sent: USER root
+2019-11-01 11:45:44.228935 Received:  331 Please specify the password.
+2019-11-01 11:45:45.668565 Sent: PASS root
+2019-11-01 11:45:45.669060 Received:  230 Login successful.
+2019-11-01 11:45:47.036590 Sent: EPSV 
+2019-11-01 11:46:09.470154 Connecting to 10.250.26.34
+2019-11-01 11:46:09.471169 Received:  220 Welcome to FTP server
+2019-11-01 11:46:11.291677 Sent: USER root
+2019-11-01 11:46:11.291917 Received:  331 Please specify the password.
+2019-11-01 11:46:12.131545 Sent: PASS root
+2019-11-01 11:46:12.132048 Received:  230 Login successful.
+2019-11-01 11:46:12.923583 Sent: PASV
+2019-11-01 11:46:12.923911 Received:  227 Entering Passive Mode. (10,250,26,34,237,222)
+2019-11-01 11:46:12.924027 Sent: LIST
+2019-11-01 11:46:12.924514 Received:  150 Here comes the directory listing.
+2019-11-01 11:46:12.924849 Received:  226 Directory send OK.
+2019-11-01 11:46:22.003190 Sent: QUIT
+2019-11-01 11:46:22.003437 Received:  221 Goodbye.
+2019-11-01 11:46:22.003506 Client quit, connection closed
+2019-11-01 13:03:36.946970 Connecting to 10.250.26.34
+2019-11-01 13:03:36.947983 Received:  220 Welcome to FTP server
+2019-11-01 13:03:38.621761 Sent: USER root
+2019-11-01 13:03:38.621920 Received:  331 Please specify the password.
+2019-11-01 13:03:39.501359 Sent: PASS root
+2019-11-01 13:03:39.501674 Received:  230 Login successful.
+2019-11-01 13:03:43.222227 Sent: PWD
+2019-11-01 13:08:40.701761 Connecting to 10.250.26.34
+2019-11-01 13:08:40.702944 Received:  220 Welcome to FTP server
+2019-11-01 13:08:44.233888 Sent: USER root
+2019-11-01 13:08:44.234059 Received:  331 Please specify the password.
+2019-11-01 13:08:45.041323 Sent: PASS root
+2019-11-01 13:08:45.041681 Received:  230 Login successful.
+2019-11-01 13:08:45.041740 Sent: SYS
+2019-11-01 13:08:45.041852 Received:  215 System: darwin
+2019-11-01 13:08:50.321689 Sent: PWD
+2019-11-01 13:08:50.321985 Received:  257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-01 13:08:52.080890 Sent: PASV
+2019-11-01 13:08:52.081133 Received:  227 Entering Passive Mode. (10,250,26,34,239,141)
+2019-11-01 13:08:52.081223 Sent: LIST
+2019-11-01 13:08:52.081564 Received:  150 Here comes the directory listing.
+2019-11-01 13:08:52.081761 Received:  226 Directory send OK.
+2019-11-01 13:09:03.216346 Sent: QUIT
+2019-11-01 13:09:03.216512 Received:  221 Goodbye.
+2019-11-01 13:09:03.216557 Client quit, connection closed
+2019-11-01 13:10:14.362027 Connecting to 10.250.26.34
+2019-11-01 13:10:14.363116 Received:  220 Welcome to FTP server
+2019-11-01 13:10:16.286130 Sent: USER root
+2019-11-01 13:10:16.286370 Received:  331 Please specify the password.
+2019-11-01 13:10:17.174276 Sent: PASS root
+2019-11-01 13:10:17.174647 Received:  230 Login successful.
+2019-11-01 13:10:17.174713 Sent: SYS
+2019-11-01 13:10:17.174849 Received:  215 System: darwin
+2019-11-01 13:10:17.886158 Sent: PASV
+2019-11-01 13:10:17.886497 Received:  227 Entering Passive Mode. (10,250,26,34,239,145)
+2019-11-01 13:10:17.886618 Sent: LIST
+2019-11-01 13:10:17.887016 Received:  150 Here comes the directory listing.
+2019-11-01 13:10:17.887242 Received:  226 Directory send OK.
+2019-11-01 14:27:20.367759 Sent: QUIT
+2019-11-01 14:27:20.367874 Client quit, connection closed
+2019-11-01 17:33:13.411660 Connecting to 127.0.0.1
+2019-11-01 17:33:13.412755 Received:  220 Welcome to FTP server
+2019-11-02 09:43:48.910638 Connecting to 144.118.235.128
+2019-11-02 09:43:48.911575 Received:  220 Welcome to FTP server
+2019-11-02 09:43:50.776874 Sent: USER root
+2019-11-02 09:43:50.777042 Received:  331 Please specify the password.
+2019-11-02 09:43:52.048642 Sent: PASS root
+2019-11-02 09:43:52.049121 Received:  230 Login successful.
+2019-11-02 09:43:52.049215 Sent: SYS
+2019-11-02 09:43:52.049406 Received:  215 System: darwin
+2019-11-02 09:44:14.703033 Sent: QUIT
+2019-11-02 09:44:14.703226 Received:  221 Goodbye.
+2019-11-02 09:44:14.703280 Client quit, connection closed
+2019-11-02 09:44:01.255350 Connecting to 144.118.235.128
+2019-11-02 09:58:28.930504 Connecting to 144.118.235.128
+2019-11-02 09:58:28.931732 Received:  220 Welcome to FTP server
+2019-11-02 09:58:46.836769 Sent: USER root
+2019-11-02 09:58:46.837026 Received:  331 Please specify the password.
+2019-11-02 09:58:48.476417 Sent: PASS root
+2019-11-02 09:58:48.476928 Received:  230 Login successful.
+2019-11-02 09:58:48.477017 Sent: SYS
+2019-11-02 09:58:48.477220 Received:  215 System: darwin
+2019-11-02 09:58:49.484601 Sent: PASV
+2019-11-02 09:58:49.485622 Received:  227 Entering Passive Mode. (144,118,235,128,251,85)
+2019-11-02 09:58:49.485731 Sent: LIST
+2019-11-02 10:05:32.756362 Connecting to 144.118.235.128
+2019-11-02 10:05:32.756722 Received:  220 Welcome to FTP server
+2019-11-02 10:05:34.579564 Sent: USER root
+2019-11-02 10:05:34.579734 Received:  331 Please specify the password.
+2019-11-02 10:05:35.532145 Sent: PASS root
+2019-11-02 10:05:35.532619 Received:  230 Login successful.
+2019-11-02 10:05:35.532708 Sent: SYS
+2019-11-02 10:05:35.532909 Received:  215 System: darwin
+2019-11-02 10:05:39.044033 Sent: PWD
+2019-11-02 10:05:39.044393 Received:  257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-02 10:05:41.268101 Sent: QUIT
+2019-11-02 10:05:41.268346 Received:  221 Goodbye.
+2019-11-02 10:05:41.268416 Client quit, connection closed
+2019-11-02 10:05:25.966147 Connecting to 144.118.235.128
+2019-11-02 10:05:25.967315 Received:  220 Welcome to FTP server
+2019-11-02 10:05:27.508616 Sent: USER root
+2019-11-02 10:05:27.508864 Received:  331 Please specify the password.
+2019-11-02 10:05:28.604689 Sent: PASS root
+2019-11-02 10:05:28.605183 Received:  230 Login successful.
+2019-11-02 10:05:28.605272 Sent: SYS
+2019-11-02 10:05:28.605492 Received:  215 System: darwin
+2019-11-02 10:05:43.971950 Sent: QUIT
+2019-11-02 10:05:43.972207 Received:  221 Goodbye.
+2019-11-02 10:05:43.972278 Client quit, connection closed

@@ -1,0 +1,477 @@
+
+2019-11-01 21:11:52.048284 Server listening at 10.246.251.12
+2019-11-01 21:11:52.048355 Sent: 220 Welcome to FTP server
+2019-11-01 21:11:54.485379 Received:  USER root
+2019-11-01 21:11:54.485477 Sent: 331 Please specify the password.
+2019-11-01 21:11:56.804176 Received:  PASS root
+2019-11-01 21:11:56.804554 Sent: 230 Login successful.
+2019-11-01 21:11:56.819429 Received:  SYST
+2019-11-01 21:11:56.819527 Sent: 215 System: darwin
+2019-11-01 21:12:03.486476 Received:  PORT 10,246,251,12,134,191
+2019-11-01 21:12:03.486591 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 21:12:03.533172 Received:  LIST
+2019-11-01 21:12:03.533409 Sent: 150 Here comes the directory listing.
+2019-11-01 21:12:03.581533 Sent: 226 Directory send Ok.
+2019-11-01 21:12:07.963802 Received:  PASV
+2019-11-01 21:53:40.297636 Server listening at 10.246.251.12
+2019-11-01 21:53:40.297699 Sent: 220 Welcome to FTP server
+2019-11-01 21:53:42.484515 Received:  USER root
+2019-11-01 21:53:42.484632 Sent: 331 Please specify the password.
+2019-11-01 21:53:43.426201 Received:  PASS root
+2019-11-01 21:53:43.426825 Sent: 230 Login successful.
+2019-11-01 21:53:43.441576 Received:  SYST
+2019-11-01 21:53:43.441692 Sent: 215 System: darwin
+2019-11-01 21:58:00.790323 Received:  PASV
+2019-11-01 22:20:20.550583 Server listening at 10.246.251.12
+2019-11-01 22:20:20.550637 Sent: 220 Welcome to FTP server
+2019-11-01 22:20:26.400518 Received:  USER root
+2019-11-01 22:20:26.400617 Sent: 331 Please specify the password.
+2019-11-01 22:20:27.262621 Received:  PASS root
+2019-11-01 22:20:27.262985 Sent: 230 Login successful.
+2019-11-01 22:20:27.312152 Received:  SYST
+2019-11-01 22:20:27.312408 Sent: 215 System: darwin
+2019-11-01 22:20:32.718758 Received:  PASV
+2019-11-01 22:21:23.248952 Server listening at 10.246.251.12
+2019-11-01 22:21:23.249034 Sent: 220 Welcome to FTP server
+2019-11-01 22:21:24.902583 Received:  USER root
+2019-11-01 22:21:24.902684 Sent: 331 Please specify the password.
+2019-11-01 22:21:25.632062 Received:  PASS root
+2019-11-01 22:21:25.632502 Sent: 230 Login successful.
+2019-11-01 22:21:25.642952 Received:  SYST
+2019-11-01 22:21:25.643042 Sent: 215 System: darwin
+2019-11-01 22:21:30.294458 Received:  PASV
+2019-11-01 22:21:30.294694 Sent: 227 Entering Passive Mode. (10,246,251,12,247,186)
+2019-11-01 22:23:11.365728 Server listening at 10.246.251.12
+2019-11-01 22:23:11.365813 Sent: 220 Welcome to FTP server
+2019-11-01 22:23:13.075746 Received:  USER root
+2019-11-01 22:23:13.075851 Sent: 331 Please specify the password.
+2019-11-01 22:23:13.787288 Received:  PASS root
+2019-11-01 22:23:13.787666 Sent: 230 Login successful.
+2019-11-01 22:23:13.802920 Received:  SYST
+2019-11-01 22:23:13.803014 Sent: 215 System: darwin
+2019-11-01 22:23:17.667242 Received:  PASV
+2019-11-01 22:23:17.668177 Sent: 227 Entering Passive Mode. (10,246,251,12,247,190)
+2019-11-01 22:25:43.119478 Server listening at 10.246.251.12
+2019-11-01 22:25:43.119589 Sent: 220 Welcome to FTP server
+2019-11-01 22:25:44.996138 Received:  USER root
+2019-11-01 22:25:44.996239 Sent: 331 Please specify the password.
+2019-11-01 22:25:45.876478 Received:  PASS root
+2019-11-01 22:25:45.876830 Sent: 230 Login successful.
+2019-11-01 22:25:45.894628 Received:  SYST
+2019-11-01 22:25:45.894722 Sent: 215 System: darwin
+2019-11-01 22:26:07.460872 Received:  PASV
+2019-11-01 22:26:07.461765 Sent: 227 Entering Passive Mode. (144,118,235,87,247,196)
+2019-11-01 22:26:07.494482 Received:  LIST
+2019-11-01 22:26:07.494563 Sent: 150 Here comes the directory listing.
+2019-11-01 22:32:44.040259 Server listening at 10.246.251.12
+2019-11-01 22:32:44.040350 Sent: 220 Welcome to FTP server
+2019-11-01 22:32:45.877149 Received:  USER root
+2019-11-01 22:32:45.877244 Sent: 331 Please specify the password.
+2019-11-01 22:32:46.676942 Received:  PASS root
+2019-11-01 22:32:46.677320 Sent: 230 Login successful.
+2019-11-01 22:32:46.691594 Received:  SYST
+2019-11-01 22:32:46.691686 Sent: 215 System: darwin
+2019-11-01 22:32:52.517444 Received:  PORT 10,246,251,12,142,217
+2019-11-01 22:32:52.517554 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:32:52.534568 Received:  LIST
+2019-11-01 22:32:52.534652 Sent: 150 Here comes the directory listing.
+2019-11-01 22:32:52.550297 Sent: 226 Directory send Ok.
+2019-11-01 22:32:57.508378 Received:  QUIT
+2019-11-01 22:32:57.508483 Sent: 221 Goodbye.
+2019-11-01 22:35:29.943450 Server listening at 10.246.251.12
+2019-11-01 22:35:29.943503 Sent: 220 Welcome to FTP server
+2019-11-01 22:35:31.847188 Received:  USER root
+2019-11-01 22:35:31.847295 Sent: 331 Please specify the password.
+2019-11-01 22:35:32.566039 Received:  PASS root
+2019-11-01 22:35:32.566401 Sent: 230 Login successful.
+2019-11-01 22:35:32.580334 Received:  SYST
+2019-11-01 22:35:32.580444 Sent: 215 System: darwin
+2019-11-01 22:35:34.230850 Received:  PORT 10,246,251,12,207,71
+2019-11-01 22:35:34.230959 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:35:34.246717 Received:  LIST
+2019-11-01 22:35:34.246819 Sent: 150 Here comes the directory listing.
+2019-11-01 22:35:34.262236 Sent: 226 Directory send Ok.
+2019-11-01 22:35:36.815261 Received:  QUIT
+2019-11-01 22:35:36.815366 Sent: 221 Goodbye.
+2019-11-01 22:37:09.660939 Server listening at 10.246.251.12
+2019-11-01 22:37:09.661024 Sent: 220 Welcome to FTP server
+2019-11-01 22:37:12.220844 Received:  USER root
+2019-11-01 22:37:12.220957 Sent: 331 Please specify the password.
+2019-11-01 22:37:13.217769 Received:  PASS root
+2019-11-01 22:37:13.218144 Sent: 230 Login successful.
+2019-11-01 22:37:13.230036 Received:  SYST
+2019-11-01 22:37:13.230130 Sent: 215 System: darwin
+2019-11-01 22:37:17.877270 Received:  PASV
+2019-11-01 22:38:05.136579 Server listening at 10.246.251.12
+2019-11-01 22:38:05.136692 Sent: 220 Welcome to FTP server
+2019-11-01 22:38:06.727585 Received:  USER root
+2019-11-01 22:38:06.727710 Sent: 331 Please specify the password.
+2019-11-01 22:38:07.478273 Received:  PASS root
+2019-11-01 22:38:07.478642 Sent: 230 Login successful.
+2019-11-01 22:38:07.494742 Received:  SYST
+2019-11-01 22:38:07.494841 Sent: 215 System: darwin
+2019-11-01 22:38:11.992275 Received:  PASV
+2019-11-01 22:38:50.105705 Server listening at 10.246.251.12
+2019-11-01 22:38:50.105789 Sent: 220 Welcome to FTP server
+2019-11-01 22:38:52.150348 Received:  USER root
+2019-11-01 22:38:52.150451 Sent: 331 Please specify the password.
+2019-11-01 22:38:53.032959 Received:  PASS root
+2019-11-01 22:38:53.033352 Sent: 230 Login successful.
+2019-11-01 22:38:53.048225 Received:  SYST
+2019-11-01 22:38:53.048323 Sent: 215 System: darwin
+2019-11-01 22:38:55.370867 Received:  PORT 10,246,251,12,156,239
+2019-11-01 22:38:55.370981 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:38:55.401218 Received:  LIST
+2019-11-01 22:38:55.401321 Sent: 150 Here comes the directory listing.
+2019-11-01 22:38:55.416170 Sent: 226 Directory send Ok.
+2019-11-01 22:38:58.798596 Received:  PASV
+2019-11-01 22:38:58.799468 Sent: 227 Entering Passive Mode. (144,118,235,87,0,0)
+2019-11-01 22:40:05.930301 Server listening at 10.246.251.12
+2019-11-01 22:40:05.930366 Sent: 220 Welcome to FTP server
+2019-11-01 22:40:08.408578 Received:  USER root
+2019-11-01 22:40:08.408682 Sent: 331 Please specify the password.
+2019-11-01 22:40:09.259022 Received:  PASS root
+2019-11-01 22:40:09.259496 Sent: 230 Login successful.
+2019-11-01 22:40:09.270910 Received:  SYST
+2019-11-01 22:40:09.271019 Sent: 215 System: darwin
+2019-11-01 22:40:14.702889 Received:  PASV
+2019-11-01 22:40:14.703771 Sent: 227 Entering Passive Mode. (144,118,235,87,0,0)
+2019-11-01 22:41:02.745821 Server listening at 10.246.251.12
+2019-11-01 22:41:02.745908 Sent: 220 Welcome to FTP server
+2019-11-01 22:41:04.593544 Received:  USER root
+2019-11-01 22:41:04.593642 Sent: 331 Please specify the password.
+2019-11-01 22:41:05.351738 Received:  PASS root
+2019-11-01 22:41:05.352048 Sent: 230 Login successful.
+2019-11-01 22:41:05.362961 Received:  SYST
+2019-11-01 22:41:05.363053 Sent: 215 System: darwin
+2019-11-01 22:41:09.803547 Received:  PASV
+2019-11-01 22:41:09.804472 Sent: 227 Entering Passive Mode. (144,118,235,87,182,62)
+2019-11-01 22:46:12.827555 Server listening at 10.246.251.12
+2019-11-01 22:46:12.827614 Sent: 220 Welcome to FTP server
+2019-11-01 22:46:14.981180 Received:  USER root
+2019-11-01 22:46:14.981274 Sent: 331 Please specify the password.
+2019-11-01 22:46:16.007253 Received:  PASS root
+2019-11-01 22:46:16.007616 Sent: 230 Login successful.
+2019-11-01 22:46:16.022379 Received:  SYST
+2019-11-01 22:46:16.022468 Sent: 215 System: darwin
+2019-11-01 22:46:20.344306 Received:  PASV
+2019-11-01 22:46:20.345269 Sent: 227 Entering Passive Mode. (144,118,235,87,182,172)
+2019-11-01 22:47:53.681581 Received:  QUIT
+2019-11-01 22:47:53.681679 Sent: 221 Goodbye.
+2019-11-01 22:48:02.897383 Server listening at 10.246.251.12
+2019-11-01 22:48:02.897465 Sent: 220 Welcome to FTP server
+2019-11-01 22:48:05.770146 Received:  USER root
+2019-11-01 22:48:05.770250 Sent: 331 Please specify the password.
+2019-11-01 22:48:07.333505 Received:  PASS root
+2019-11-01 22:48:07.333867 Sent: 230 Login successful.
+2019-11-01 22:48:07.350705 Received:  SYST
+2019-11-01 22:48:07.350802 Sent: 215 System: darwin
+2019-11-01 22:48:10.209365 Received:  PORT 10,246,251,12,190,21
+2019-11-01 22:48:10.209465 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:48:10.224216 Received:  LIST
+2019-11-01 22:48:10.224292 Sent: 150 Here comes the directory listing.
+2019-11-01 22:48:10.240361 Sent: 226 Directory send Ok.
+2019-11-01 22:48:13.561853 Received:  PASV
+2019-11-01 22:48:13.562732 Sent: 227 Entering Passive Mode. (144,118,235,87,182,180)
+2019-11-01 22:57:52.793585 Received:  QUIT
+2019-11-01 22:57:52.793683 Sent: 221 Goodbye.
+2019-11-01 22:57:59.097833 Server listening at 10.246.251.12
+2019-11-01 22:57:59.097928 Sent: 220 Welcome to FTP server
+2019-11-01 22:58:01.482859 Received:  USER root
+2019-11-01 22:58:01.482954 Sent: 331 Please specify the password.
+2019-11-01 22:58:02.464923 Received:  PASS root
+2019-11-01 22:58:02.465341 Sent: 230 Login successful.
+2019-11-01 22:58:02.477737 Received:  SYST
+2019-11-01 22:58:02.477835 Sent: 215 System: darwin
+2019-11-01 22:58:05.267785 Received:  PORT 10,246,251,12,209,153
+2019-11-01 22:58:05.267875 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:58:05.281861 Received:  LIST
+2019-11-01 22:58:05.281943 Sent: 150 Here comes the directory listing.
+2019-11-01 22:58:05.297308 Sent: 226 Directory send Ok.
+2019-11-01 22:58:06.761831 Received:  PWD
+2019-11-01 22:58:06.762068 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-01 22:58:08.629786 Received:  CDUP
+2019-11-01 22:58:08.629952 Sent: 250 Directory successfully changed.
+2019-11-01 22:58:12.541682 Received:  CWD HW3
+2019-11-01 22:58:12.541833 Sent: 250 Directory successfully changed.
+2019-11-01 22:58:15.567964 Received:  PORT 10,246,251,12,181,15
+2019-11-01 22:58:15.568061 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:58:15.604368 Received:  LIST
+2019-11-01 22:58:15.604488 Sent: 150 Here comes the directory listing.
+2019-11-01 22:58:15.639845 Sent: 226 Directory send Ok.
+2019-11-01 22:58:17.284495 Received:  PWD
+2019-11-01 22:58:17.284713 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-01 22:58:25.166745 Received:  PORT 10,246,251,12,228,235
+2019-11-01 22:58:25.166844 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:58:25.182460 Received:  RETR testfile
+2019-11-01 22:58:25.182637 Sent: 500 No such file or directory
+2019-11-01 22:58:34.865606 Received:  PORT 10,246,251,12,167,43
+2019-11-01 22:58:34.865712 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:58:34.880834 Received:  RETR testfile1.txt
+2019-11-01 22:58:34.881038 Sent: 150 Opening BINARY mode data connection
+2019-11-01 22:58:34.897193 Sent: 226 Transfer complete.
+2019-11-01 22:58:50.698655 Received:  PORT 10,246,251,12,172,183
+2019-11-01 22:58:50.698765 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 22:58:50.713523 Received:  STOR testfile1.txt
+2019-11-01 22:58:50.713677 Sent: 150 Ok to send data.
+2019-11-01 22:58:50.741732 Sent: 226 Transfer complete.
+2019-11-01 22:58:55.591623 Received:  PWD
+2019-11-01 22:58:55.591843 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-01 22:58:57.752181 Received:  PASV
+2019-11-01 22:58:57.753044 Sent: 227 Entering Passive Mode. (144,118,235,87,183,18)
+2019-11-01 22:59:04.226694 Received:  PASV
+2019-11-01 22:59:04.227591 Sent: 227 Entering Passive Mode. (144,118,235,87,183,18)
+2019-11-01 22:59:09.766560 Received:  QUIT
+2019-11-01 22:59:09.766659 Sent: 221 Goodbye.
+2019-11-01 23:15:16.286673 Server listening at 10.246.251.12
+2019-11-01 23:15:16.286755 Sent: 220 Welcome to FTP server
+2019-11-01 23:15:18.354186 Received:  USER roo
+2019-11-01 23:15:18.354281 Sent: 331 Please specify the password.
+2019-11-01 23:15:19.492645 Received:  PASS r
+2019-11-01 23:15:19.493001 Sent: 530 Login incorrect
+2019-11-01 23:15:19.510502 Received:  SYST
+2019-11-01 23:15:19.510595 Sent: 215 System: darwin
+2019-11-01 23:15:21.588503 Received:  PORT 10,246,251,12,131,237
+2019-11-01 23:15:21.588606 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 23:15:21.630403 Received:  LIST
+2019-11-01 23:15:21.630618 Sent: 150 Here comes the directory listing.
+2019-11-01 23:15:21.681243 Sent: 226 Directory send Ok.
+2019-11-01 23:17:52.807752 Server listening at 10.246.251.12
+2019-11-01 23:17:52.807839 Sent: 220 Welcome to FTP server
+2019-11-01 23:17:55.267195 Received:  USER root
+2019-11-01 23:17:55.267291 Sent: 331 Please specify the password.
+2019-11-01 23:17:56.180542 Received:  PASS root
+2019-11-01 23:17:56.180896 Sent: 230 Login successful.
+2019-11-01 23:17:56.191340 Received:  SYST
+2019-11-01 23:17:56.191438 Sent: 215 System: darwin
+2019-11-01 23:17:58.125380 Received:  PORT 10,246,251,12,203,17
+2019-11-01 23:19:00.964030 Server listening at 10.246.251.12
+2019-11-01 23:19:00.964116 Sent: 220 Welcome to FTP server
+2019-11-01 23:19:04.043242 Received:  USER root
+2019-11-01 23:19:04.043348 Sent: 331 Please specify the password.
+2019-11-01 23:19:05.625201 Received:  PASS root
+2019-11-01 23:19:05.625663 Sent: 230 Login successful.
+2019-11-01 23:19:05.649080 Received:  SYST
+2019-11-01 23:19:05.649158 Sent: 215 System: darwin
+2019-11-01 23:19:06.425414 Received:  PORT 10,246,251,12,137,49
+2019-11-01 23:19:06.425523 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 23:19:06.435235 Received:  LIST
+2019-11-01 23:19:06.435338 Sent: 150 Here comes the directory listing.
+2019-11-01 23:19:06.450176 Sent: 226 Directory send Ok.
+2019-11-01 23:19:07.896981 Received:  PWD
+2019-11-01 23:19:07.897221 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-01 23:19:09.456713 Received:  QUIT
+2019-11-01 23:19:09.456813 Sent: 221 Goodbye.
+2019-11-01 23:19:15.413432 Server listening at 10.246.251.12
+2019-11-01 23:19:15.413521 Sent: 220 Welcome to FTP server
+2019-11-01 23:19:17.874591 Received:  USER root
+2019-11-01 23:19:17.874684 Sent: 331 Please specify the password.
+2019-11-01 23:19:19.328249 Received:  PASS root
+2019-11-01 23:19:19.328606 Sent: 230 Login successful.
+2019-11-01 23:19:19.343845 Received:  SYST
+2019-11-01 23:19:19.343956 Sent: 215 System: darwin
+2019-11-01 23:19:22.216396 Received:  QUIT
+2019-11-01 23:19:22.216496 Sent: 221 Goodbye.
+2019-11-01 23:19:27.328650 Server listening at 10.246.251.12
+2019-11-01 23:19:27.328752 Sent: 220 Welcome to FTP server
+2019-11-01 23:19:29.001788 Received:  USER w
+2019-11-01 23:19:29.001888 Sent: 331 Please specify the password.
+2019-11-01 23:19:29.596220 Received:  PASS w
+2019-11-01 23:19:29.596569 Sent: 530 Login incorrect
+2019-11-01 23:19:29.613025 Received:  SYST
+2019-11-01 23:19:29.613121 Sent: 215 System: darwin
+2019-11-01 23:19:33.161176 Received:  PORT 10,246,251,12,233,77
+2019-11-01 23:19:33.161276 Sent: Please login
+2019-11-01 23:19:34.800603 Received:  PORT 10,246,251,12,177,39
+2019-11-01 23:19:34.800711 Sent: Please login
+2019-11-01 23:19:35.511317 Received:  PORT 10,246,251,12,179,217
+2019-11-01 23:19:35.511413 Sent: Please login
+2019-11-01 23:20:19.238069 Received:  QUIT
+2019-11-01 23:20:19.238182 Sent: 221 Goodbye.
+2019-11-01 23:21:00.637083 Server listening at 10.246.251.12
+2019-11-01 23:21:00.637177 Sent: 220 Welcome to FTP server
+2019-11-01 23:21:02.873180 Received:  USER root
+2019-11-01 23:21:02.873282 Sent: 331 Please specify the password.
+2019-11-01 23:21:04.124389 Received:  PASS root
+2019-11-01 23:21:04.124934 Sent: 230 Login successful.
+2019-11-01 23:21:04.140521 Received:  SYST
+2019-11-01 23:21:04.140616 Sent: 215 System: darwin
+2019-11-01 23:21:05.727694 Received:  PORT 10,246,251,12,199,171
+2019-11-01 23:21:05.727804 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 23:21:05.744405 Received:  LIST
+2019-11-01 23:21:05.744509 Sent: 150 Here comes the directory listing.
+2019-11-01 23:21:05.763145 Sent: 226 Directory send Ok.
+2019-11-01 23:21:06.685511 Received:  PWD
+2019-11-01 23:21:06.685757 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-01 23:21:12.865778 Received:  PORT 10,246,251,12,162,77
+2019-11-01 23:21:12.865880 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 23:21:12.880921 Received:  RETR testfile1.txt
+2019-11-01 23:21:12.881073 Sent: 150 Opening BINARY mode data connection
+2019-11-01 23:21:12.897093 Sent: 226 Transfer complete.
+2019-11-01 23:21:16.054219 Received:  PWD
+2019-11-01 23:21:16.054438 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-01 23:21:22.765377 Received:  PORT 10,246,251,12,186,167
+2019-11-01 23:21:22.765481 Sent: 200 PORT command successful. Consider using PASV
+2019-11-01 23:21:22.779694 Received:  STOR testfile1.txt
+2019-11-01 23:21:22.779819 Sent: 150 Ok to send data.
+2019-11-01 23:21:22.815297 Sent: 226 Transfer complete.
+2019-11-01 23:26:21.636089 Received:  QUIT
+2019-11-01 23:26:21.636194 Sent: 221 Goodbye.
+2019-11-01 23:37:39.135314 Server listening at 10.246.251.12
+2019-11-01 23:37:39.135399 Sent: 220 Welcome to FTP server
+2019-11-01 23:37:41.441636 Received:  USER root
+2019-11-01 23:37:41.441737 Sent: 331 Please specify the password.
+2019-11-01 23:37:42.343364 Received:  PASS root
+2019-11-01 23:37:42.343750 Sent: 230 Login successful.
+2019-11-01 23:37:42.358625 Received:  SYST
+2019-11-01 23:37:42.358722 Sent: 215 System: darwin
+2019-11-01 23:37:46.291731 Received:  QUIT
+2019-11-01 23:37:46.291831 Sent: 221 Goodbye.
+2019-11-01 23:39:05.679673 Server listening at 10.246.251.12
+2019-11-01 23:39:05.679759 Sent: 220 Welcome to FTP server
+2019-11-01 23:39:07.585550 Received:  USER root
+2019-11-01 23:39:07.585650 Sent: 331 Please specify the password.
+2019-11-01 23:39:08.305477 Received:  PASS root
+2019-11-01 23:39:08.305905 Sent: 230 Login successful.
+2019-11-01 23:39:08.320119 Received:  SYST
+2019-11-01 23:39:08.320209 Sent: 215 System: darwin
+2019-11-01 23:39:10.946668 Received:  QUIT
+2019-11-01 23:39:10.946777 Sent: 221 Goodbye.
+2019-11-01 23:39:41.900858 Server listening at 10.246.251.12
+2019-11-01 23:39:41.900941 Sent: 220 Welcome to FTP server
+2019-11-01 23:39:44.153559 Received:  USER root
+2019-11-01 23:39:44.153661 Sent: 331 Please specify the password.
+2019-11-01 23:39:44.943601 Received:  PASS root
+2019-11-01 23:39:44.943953 Sent: 230 Login successful.
+2019-11-01 23:39:44.976065 Received:  SYST
+2019-11-01 23:39:44.976137 Sent: 215 System: darwin
+2019-11-01 23:39:47.104097 Received:  QUIT
+2019-11-01 23:39:47.104207 Sent: 221 Goodbye.
+2019-11-02 09:37:26.323217 Server listening at 10.246.251.12
+2019-11-02 09:37:26.323279 Sent: 220 Welcome to FTP server
+2019-11-02 09:37:27.899086 Received:  USER root
+2019-11-02 09:37:27.899189 Sent: 331 Please specify the password.
+2019-11-02 09:37:28.668159 Received:  PASS root
+2019-11-02 09:37:28.668551 Sent: 230 Login successful.
+2019-11-02 09:37:28.683459 Received:  SYST
+2019-11-02 09:37:28.683558 Sent: 215 System: darwin
+2019-11-02 09:37:31.299082 Received:  PORT 10,246,251,12,167,221
+2019-11-02 09:37:31.299192 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 09:37:31.313456 Received:  LIST
+2019-11-02 09:37:31.313559 Sent: 150 Here comes the directory listing.
+2019-11-02 09:37:31.327632 Sent: 226 Directory send Ok.
+2019-11-02 09:37:41.542462 Received:  PORT 10,246,251,12,143,75
+2019-11-02 09:37:41.542569 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 09:37:41.556294 Received:  STOR testfile1.txt
+2019-11-02 09:37:41.556449 Sent: 150 Ok to send data.
+2019-11-02 09:37:41.604936 Sent: 226 Transfer complete.
+2019-11-02 09:38:16.337790 Received:  QUIT
+2019-11-02 09:38:16.337919 Sent: 221 Goodbye.
+2019-11-02 09:43:48.911479 Server listening at 144.118.235.128
+2019-11-02 09:43:48.911527 Sent: 220 Welcome to FTP server
+2019-11-02 09:43:50.776886 Received:  USER root
+2019-11-02 09:43:50.776972 Sent: 331 Please specify the password.
+2019-11-02 09:43:52.048712 Received:  PASS root
+2019-11-02 09:43:52.049046 Sent: 230 Login successful.
+2019-11-02 09:43:52.049288 Received:  SYS
+2019-11-02 09:43:52.049345 Sent: 215 System: darwin
+2019-11-02 09:44:14.703093 Received:  QUIT
+2019-11-02 09:44:14.703156 Sent: 221 Goodbye.
+2019-11-02 09:58:28.931606 Server listening at 144.118.235.128
+2019-11-02 09:58:28.931872 Sent: 220 Welcome to FTP server
+2019-11-02 09:58:46.836872 Received:  USER root
+2019-11-02 09:58:46.836949 Sent: 331 Please specify the password.
+2019-11-02 09:58:48.476507 Received:  PASS root
+2019-11-02 09:58:48.476850 Sent: 230 Login successful.
+2019-11-02 09:58:48.477090 Received:  SYS
+2019-11-02 09:58:48.477142 Sent: 215 System: darwin
+2019-11-02 09:58:49.484693 Received:  PASV
+2019-11-02 09:58:49.485564 Sent: 227 Entering Passive Mode. (144,118,235,128,251,85)
+2019-11-02 09:58:49.485803 Received:  LIST
+2019-11-02 09:58:49.485872 Sent: 150 Here comes the directory listing.
+2019-11-02 10:05:25.967210 Server listening at 144.118.235.128
+2019-11-02 10:05:25.967307 Sent: 220 Welcome to FTP server
+2019-11-02 10:05:27.508712 Received:  USER root
+2019-11-02 10:05:27.508790 Sent: 331 Please specify the password.
+2019-11-02 10:05:28.604770 Received:  PASS root
+2019-11-02 10:05:28.605105 Sent: 230 Login successful.
+2019-11-02 10:05:28.605343 Received:  SYS
+2019-11-02 10:05:28.605397 Sent: 215 System: darwin
+2019-11-02 10:05:43.972036 Received:  QUIT
+2019-11-02 10:05:43.972119 Sent: 221 Goodbye.
+2019-11-02 10:05:32.756635 Server listening at 144.118.235.128
+2019-11-02 10:05:32.756714 Sent: 220 Welcome to FTP server
+2019-11-02 10:05:34.579622 Received:  USER root
+2019-11-02 10:05:34.579679 Sent: 331 Please specify the password.
+2019-11-02 10:05:35.532235 Received:  PASS root
+2019-11-02 10:05:35.532540 Sent: 230 Login successful.
+2019-11-02 10:05:35.532780 Received:  SYS
+2019-11-02 10:05:35.532832 Sent: 215 System: darwin
+2019-11-02 10:05:39.044101 Received:  PWD
+2019-11-02 10:05:39.044326 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-02 10:05:41.268181 Received:  QUIT
+2019-11-02 10:05:41.268258 Sent: 221 Goodbye.
+2019-11-02 10:07:31.905058 Server listening at 10.246.251.15
+2019-11-02 10:07:31.905206 Sent: 220 Welcome to FTP server
+2019-11-02 10:07:33.685332 Received:  USER root
+2019-11-02 10:07:33.685438 Sent: 331 Please specify the password.
+2019-11-02 10:07:34.414077 Received:  PASS root
+2019-11-02 10:07:34.414434 Sent: 230 Login successful.
+2019-11-02 10:07:34.428249 Received:  SYST
+2019-11-02 10:07:34.428345 Sent: 215 System: darwin
+2019-11-02 10:07:41.666551 Received:  QUIT
+2019-11-02 10:07:41.666656 Sent: 221 Goodbye.
+2019-11-02 10:07:43.179272 Server listening at 10.246.251.15
+2019-11-02 10:07:43.179380 Sent: 220 Welcome to FTP server
+2019-11-02 10:07:44.653322 Received:  USER root
+2019-11-02 10:07:44.653424 Sent: 331 Please specify the password.
+2019-11-02 10:07:45.370093 Received:  PASS root
+2019-11-02 10:07:45.370416 Sent: 230 Login successful.
+2019-11-02 10:07:45.385440 Received:  SYST
+2019-11-02 10:07:45.385538 Sent: 215 System: darwin
+2019-11-02 10:07:45.825570 Received:  PORT 10,246,251,15,140,43
+2019-11-02 10:07:45.825682 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 10:07:45.840386 Received:  LIST
+2019-11-02 10:07:45.840472 Sent: 150 Here comes the directory listing.
+2019-11-02 10:07:45.857943 Sent: 226 Directory send Ok.
+2019-11-02 10:08:02.944282 Received:  QUIT
+2019-11-02 10:08:02.944383 Sent: 221 Goodbye.
+2019-11-02 10:07:51.032929 Server listening at 10.246.251.14
+2019-11-02 10:07:51.033067 Sent: 220 Welcome to FTP server
+2019-11-02 10:07:52.521635 Received:  USER root
+2019-11-02 10:07:52.521734 Sent: 331 Please specify the password.
+2019-11-02 10:07:53.293939 Received:  PASS root
+2019-11-02 10:07:53.294262 Sent: 230 Login successful.
+2019-11-02 10:07:53.308117 Received:  SYST
+2019-11-02 10:07:53.308223 Sent: 215 System: darwin
+2019-11-02 10:07:54.497632 Received:  PWD
+2019-11-02 10:07:54.497874 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-02 10:07:59.944664 Received:  QUIT
+2019-11-02 10:07:59.944761 Sent: 221 Goodbye.
+2019-11-02 10:12:44.438256 Server listening at 10.246.251.15
+2019-11-02 10:12:44.438366 Sent: 220 Welcome to FTP server
+2019-11-02 10:12:46.211502 Received:  USER root
+2019-11-02 10:12:46.211608 Sent: 331 Please specify the password.
+2019-11-02 10:12:47.697831 Received:  PASS root
+2019-11-02 10:12:47.698195 Sent: 230 Login successful.
+2019-11-02 10:12:47.708562 Received:  SYST
+2019-11-02 10:12:47.708658 Sent: 215 System: darwin
+2019-11-02 10:12:50.662983 Received:  PORT 10,246,251,15,173,169
+2019-11-02 10:12:50.663093 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 10:12:50.680498 Received:  LIST
+2019-11-02 10:12:50.680647 Sent: 150 Here comes the directory listing.
+2019-11-02 10:12:50.696907 Sent: 226 Directory send Ok.
+2019-11-02 10:12:52.017643 Received:  PWD
+2019-11-02 10:12:52.017931 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-02 10:13:34.376338 Received:  PORT 10,246,251,15,189,3
+2019-11-02 10:13:34.376450 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 10:13:34.387607 Received:  LIST
+2019-11-02 10:13:34.387724 Sent: 150 Here comes the directory listing.
+2019-11-02 10:13:34.401499 Sent: 226 Directory send Ok.
+2019-11-02 10:13:44.417220 Received:  PORT 10,246,251,15,162,67
+2019-11-02 10:13:44.417329 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 10:13:44.431956 Received:  RETR storfile.txt
+2019-11-02 10:13:44.432106 Sent: 150 Opening BINARY mode data connection
+2019-11-02 10:13:44.447223 Sent: 226 Transfer complete.
+2019-11-02 10:13:51.728171 Received:  QUIT
+2019-11-02 10:13:51.728284 Sent: 221 Goodbye.

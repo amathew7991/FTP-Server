@@ -1,0 +1,73 @@
+
+2019-11-02 17:43:30.646812 Server listening at 10.246.251.14
+2019-11-02 17:43:30.647021 Sent: 220 Welcome to FTP server
+2019-11-02 17:43:33.467994 Received:  USER root
+2019-11-02 17:43:33.468098 Sent: 331 Please specify the password.
+2019-11-02 17:43:36.444579 Received:  PASS root
+2019-11-02 17:43:36.446003 Sent: 230 Login successful.
+2019-11-02 17:43:36.463367 Received:  SYST
+2019-11-02 17:43:36.463472 Sent: 215 System: darwin
+2019-11-02 17:43:42.660020 Received:  PWD
+2019-11-02 17:43:42.660262 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-02 17:43:45.163238 Received:  CWD ../
+2019-11-02 17:43:45.163530 Sent: 250 Directory successfully changed.
+2019-11-02 17:43:48.853834 Received:  CWD HW3
+2019-11-02 17:43:48.853987 Sent: 250 Directory successfully changed.
+2019-11-02 17:43:51.556909 Received:  CDUP
+2019-11-02 17:43:51.557028 Sent: 250 Directory successfully changed.
+2019-11-02 17:43:54.563093 Received:  PWD
+2019-11-02 17:43:54.563310 Sent: 257 /Users/andreamathew/pycharm-workspace is the current directory
+2019-11-02 17:44:07.515663 Received:  CWD HW3
+2019-11-02 17:44:07.515818 Sent: 250 Directory successfully changed.
+2019-11-02 17:44:33.124619 Received:  PORT 10,246,251,14,219,81
+2019-11-02 17:44:33.124728 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 17:44:33.144071 Received:  LIST
+2019-11-02 17:44:33.144183 Sent: 150 Here comes the directory listing.
+2019-11-02 17:44:33.159836 Sent: 226 Directory send Ok.
+2019-11-02 17:44:40.640103 Received:  PORT 10,246,251,14,170,139
+2019-11-02 17:44:40.640214 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 17:44:40.656149 Received:  RETR testfile1.txt
+2019-11-02 17:44:40.656302 Sent: 150 Opening BINARY mode data connection
+2019-11-02 17:44:40.671045 Sent: 226 Transfer complete.
+2019-11-02 17:44:48.579851 Received:  PORT 10,246,251,14,161,1
+2019-11-02 17:44:48.579962 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 17:44:48.598157 Received:  STOR testfile1.txt
+2019-11-02 17:44:48.598310 Sent: 150 Ok to send data.
+2019-11-02 17:44:48.624091 Sent: 226 Transfer complete.
+2019-11-02 17:45:35.993585 Received:  QUIT
+2019-11-02 17:45:35.993659 Sent: 221 Goodbye.
+2019-11-02 17:44:59.868896 Server listening at 10.246.251.13
+2019-11-02 17:44:59.869030 Sent: 220 Welcome to FTP server
+2019-11-02 17:45:02.547568 Received:  USER root
+2019-11-02 17:45:02.547670 Sent: 331 Please specify the password.
+2019-11-02 17:45:04.370850 Received:  PASS root
+2019-11-02 17:45:04.371174 Sent: 230 Login successful.
+2019-11-02 17:45:04.391931 Received:  SYST
+2019-11-02 17:45:04.392018 Sent: 215 System: darwin
+2019-11-02 17:45:06.031268 Received:  PWD
+2019-11-02 17:45:06.031445 Sent: 257 /Users/andreamathew/pycharm-workspace/HW3 is the current directory
+2019-11-02 17:45:07.503003 Received:  PORT 10,246,251,13,193,65
+2019-11-02 17:45:07.503119 Sent: 200 PORT command successful. Consider using PASV
+2019-11-02 17:45:07.522475 Received:  LIST
+2019-11-02 17:45:07.522573 Sent: 150 Here comes the directory listing.
+2019-11-02 17:45:07.537322 Sent: 226 Directory send Ok.
+2019-11-02 17:45:13.636151 Received:  QUIT
+2019-11-02 17:45:13.636252 Sent: 221 Goodbye.
+2019-11-03 16:54:04.049811 Server listening at 127.0.0.1
+2019-11-03 16:54:04.049890 Sent: 220 Welcome to FTP server
+2019-11-03 16:54:06.530529 Received:  USER root
+2019-11-03 16:54:06.530614 Sent: 331 Please specify the password.
+2019-11-03 16:54:07.393619 Received:  PASS root
+2019-11-03 16:54:07.393898 Sent: 230 Login successful.
+2019-11-03 16:54:10.930515 Received:  PWD
+2019-11-03 16:54:20.167290 Received:  
+2019-11-03 17:00:09.636888 Server listening at 10.246.251.13
+2019-11-03 17:00:09.637027 Sent: 220 Welcome to FTP server
+2019-11-03 17:00:11.616725 Received:  USER root
+2019-11-03 17:00:11.616819 Sent: 331 Please specify the password.
+2019-11-03 17:00:12.430454 Received:  PASS root
+2019-11-03 17:00:12.430818 Sent: 230 Login successful.
+2019-11-03 17:00:12.446077 Received:  SYST
+2019-11-03 17:00:12.446168 Sent: 215 System: darwin
+2019-11-03 17:00:15.016947 Received:  QUIT
+2019-11-03 17:00:15.017044 Sent: 221 Goodbye.

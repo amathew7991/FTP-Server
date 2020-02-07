@@ -1,0 +1,127 @@
+➜  HW2 python3 ftpclient.py 10.246.251.93 clientlogs.txt
+Connected to 10.246.251.93
+220 Welcome to CS472 FTP Server
+Enter user: cs472
+331 Please specify the password.
+Enter password: hw2ftp
+230 Login successful.
+ftp>pwd
+257 "/home/cs472" is the current directory
+ftp>cd /home
+250 Directory successfully changed.
+ftp>cd /home/cs
+550 Failed to change directory.
+ftp>cd /home/cs472
+250 Directory successfully changed.
+ftp>ls
+227 Entering Passive Mode (10,246,251,93,168,57).
+150 Here comes the directory listing.
+-rw-r--r--    1 1001     1001     106209280 Oct 21 14:58 100mbfile
+-rw-r--r--    1 1001     1001           11 Oct 21 17:54 472File.txt
+-rw-r--r--    1 1001     1001            0 Oct 20 16:38 C:\Users\Owen\Documents\Github\obrooks_hw2\remote.txt
+-rw-r--r--    1 1001     1001            0 Oct 14  2018 Select file to send to the server:
+-rw-r--r--    1 1001     1001         1500 Oct 21 15:47 TEST
+-rw-r--r--    1 1001     1001           34 Oct 21 20:33 Thanks.txt
+-rw-r--r--    1 1001     1001     1285636662 Oct 19 23:51 This is huge
+-rw-r--r--    1 1001     1001         1610 Oct 21 02:21 apple.txt
+-rw-r--r--    1 1001     1001      1387264 Oct 21 02:28 audioTest.mp3
+-rw-r--r--    1 1001     1001       321080 Oct 10 00:13 ftp-rfcs.txt
+-rw-r--r--    1 1001     1001           16 Oct 21 12:31 hello
+-rw-r--r--    1 1001     1001       219708 Oct 21 12:31 imageTest.jpg
+-rw-r--r--    1 1001     1001         1610 Oct 20 17:58 lalala.txt
+-rw-r--r--    1 1001     1001           20 Oct 21 16:08 log.txt
+-rw-r--r--    1 1001     1001           40 Oct 21 20:26 mp455l.txt
+-rw-r--r--    1 1001     1001           20 Oct 21 11:52 myFile.txt
+-rw-r--r--    1 1001     1001            0 Oct 21 09:55 myfile.txt
+-rw-r--r--    1 1001     1001           30 Oct 21 21:03 nipple.txt
+-rw-r--r--    1 1001     1001       312749 Oct 20 20:06 remote.txt
+-rw-r--r--    1 1001     1001            0 Oct 20 20:03 remote.txt1
+-rw-r--r--    1 1001     1001       946576 Oct 20 16:38 remote1.txt
+-rw-r--r--    1 1001     1001            0 Oct 20 16:24 remote3.txt
+-rw-r--r--    1 1001     1001           20 Oct 21 16:19 stpTest.txt
+-rw-r--r--    1 1001     1001            0 Oct 20 20:58 test
+-rw-r--r--    1 1001     1001            0 Oct 15 17:42 test.tct
+-rw-r--r--    1 1001     1001            0 Oct 21 20:28 test.txt
+drwxr-xr-x    2 1001     1001         4096 Oct 21 17:01 test_dir
+-rw-r--r--    1 1001     1001          177 Oct 21 20:52 test_file_new.txt
+-rw-r--r--    1 1001     1001          242 Oct 21 21:02 test_text_file.txt
+drwxr-xr-x    2 1001     1001         4096 Oct 21 16:33 testdir
+-rw-r--r--    1 1001     1001            0 Oct 21 20:44 testfile1.txt
+-rw-r--r--    1 1001     1001           26 Oct 20 23:12 testing.txt
+-rw-r--r--    1 1001     1001           26 Oct 20 23:44 testing2.txt
+drwxr-xr-x    2 1001     1001         4096 Oct 21 18:52 this is a directory
+-rw-r--r--    1 1001     1001       971573 Oct 19 23:12 this is a remote file
+-rw-r--r--    1 1001     1001       321080 Oct 11 17:04 this is upoad
+226 Directory send OK.
+ftp>get testfile1.txt
+227 Entering Passive Mode (10,246,251,93,68,49).
+
+150 Opening BINARY mode data connection for testfile1.txt (0 bytes).
+226 Transfer complete.
+ftp>put testfile1.txt
+227 Entering Passive Mode (10,246,251,93,93,116).
+150 Ok to send data.
+226 Transfer complete.
+ftp>quit
+221 Goodbye.
+➜  HW2 python3 ftpclient.py 0:0:0:0:0:ffff:af6:fb5d clientlogs.txt
+Connected to 0:0:0:0:0:ffff:af6:fb5d
+220 Welcome to CS472 FTP Server
+Enter user: cs472
+331 Please specify the password.
+Enter password: hw2ftp
+230 Login successful.
+ftp>ls
+229 Entering Extended Passive Mode (|||59716|)
+150 Here comes the directory listing.
+-rw-r--r--    1 1001     1001     106209280 Oct 21 14:58 100mbfile
+-rw-r--r--    1 1001     1001           11 Oct 21 17:54 472File.txt
+-rw-r--r--    1 1001     1001            0 Oct 20 16:38 C:\Users\Owen\Documents\Github\obrooks_hw2\remote.txt
+-rw-r--r--    1 1001     1001            0 Oct 14  2018 Select file to send to the server:
+-rw-r--r--    1 1001     1001         1500 Oct 21 15:47 TEST
+-rw-r--r--    1 1001     1001           34 Oct 21 20:33 Thanks.txt
+-rw-r--r--    1 1001     1001     1285636662 Oct 19 23:51 This is huge
+-rw-r--r--    1 1001     1001         1610 Oct 21 02:21 apple.txt
+-rw-r--r--    1 1001     1001      1387264 Oct 21 02:28 audioTest.mp3
+-rw-r--r--    1 1001     1001       321080 Oct 10 00:13 ftp-rfcs.txt
+-rw-r--r--    1 1001     1001           16 Oct 21 12:31 hello
+-rw-r--r--    1 1001     1001       219708 Oct 21 12:31 imageTest.jpg
+-rw-r--r--    1 1001     1001         1610 Oct 20 17:58 lalala.txt
+-rw-r--r--    1 1001     1001           20 Oct 21 16:08 log.txt
+-rw-r--r--    1 1001     1001           40 Oct 21 20:26 mp455l.txt
+-rw-r--r--    1 1001     1001           20 Oct 21 11:52 myFile.txt
+-rw-r--r--    1 1001     1001            0 Oct 21 09:55 myfile.txt
+-rw-r--r--    1 1001     1001           30 Oct 21 21:03 nipple.txt
+-rw-r--r--    1 1001     1001       312749 Oct 20 20:06 remote.txt
+-rw-r--r--    1 1001     1001            0 Oct 20 20:03 remote.txt1
+-rw-r--r--    1 1001     1001       946576 Oct 20 16:38 remote1.txt
+-rw-r--r--    1 1001     1001            0 Oct 20 16:24 remote3.txt
+-rw-r--r--    1 1001     1001           20 Oct 21 16:19 stpTest.txt
+-rw-r--r--    1 1001     1001            0 Oct 20 20:58 test
+-rw-r--r--    1 1001     1001            0 Oct 15 17:42 test.tct
+-rw-r--r--    1 1001     1001            0 Oct 21 20:28 test.txt
+drwxr-xr-x    2 1001     1001         4096 Oct 21 17:01 test_dir
+-rw-r--r--    1 1001     1001          177 Oct 21 20:52 test_file_new.txt
+-rw-r--r--    1 1001     1001          242 Oct 21 21:02 test_text_file.txt
+drwxr-xr-x    2 1001     1001         4096 Oct 21 16:33 testdir
+-rw-r--r--    1 1001     1001            0 Oct 21 21:04 testfile1.txt
+-rw-r--r--    1 1001     1001           26 Oct 20 23:12 testing.txt
+-rw-r--r--    1 1001     1001           26 Oct 20 23:44 testing2.txt
+drwxr-xr-x    2 1001     1001         4096 Oct 21 18:52 this is a directory
+-rw-r--r--    1 1001     1001       971573 Oct 19 23:12 this is a remote file
+-rw-r--r--    1 1001     1001       321080 Oct 11 17:04 this is upoad
+226 Directory send OK.
+ftp>pwd
+257 "/home/cs472" is the current directory
+ftp>get testing2.txt
+227 Entering Passive Mode (10,246,251,93,196,210).
+Hello This is a test
+test
+150 Opening BINARY mode data connection for testing2.txt (26 bytes).
+226 Transfer complete.
+ftp>put testing1.txt
+227 Entering Passive Mode (10,246,251,93,41,142).
+150 Ok to send data.
+226 Transfer complete.
+ftp>quit
+221 Goodbye.

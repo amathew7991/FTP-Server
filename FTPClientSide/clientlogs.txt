@@ -1,0 +1,59 @@
+
+2019-10-21 21:03:17.230620 Connecting to 10.246.251.93
+2019-10-21 21:03:17.258441 Received:  220 Welcome to CS472 FTP Server
+2019-10-21 21:03:19.877770 Sent: USER cs472
+2019-10-21 21:03:19.897067 Received:  331 Please specify the password.
+2019-10-21 21:03:22.605061 Sent: PASS hw2ftp
+2019-10-21 21:03:22.691748 Received:  230 Login successful.
+2019-10-21 21:03:28.221243 Sent: PWD
+2019-10-21 21:03:28.303597 Received:  257 "/home/cs472" is the current directory
+2019-10-21 21:03:31.356504 Sent: CWD /home
+2019-10-21 21:03:31.373015 Received:  250 Directory successfully changed.
+2019-10-21 21:03:40.581122 Sent: CWD /home/cs
+2019-10-21 21:03:40.606210 Received:  550 Failed to change directory.
+2019-10-21 21:03:53.044522 Sent: CWD /home/cs472
+2019-10-21 21:03:53.063110 Received:  250 Directory successfully changed.
+2019-10-21 21:03:58.708434 Sent: PASV
+2019-10-21 21:03:58.731913 Received:  227 Entering Passive Mode (10,246,251,93,168,57).
+2019-10-21 21:03:58.732015 Sent: LIST
+2019-10-21 21:03:58.770715 Received:  150 Here comes the directory listing.
+2019-10-21 21:03:58.783237 Received:  226 Directory send OK.
+2019-10-21 21:04:35.338741 Sent: PASV
+2019-10-21 21:04:35.358236 Received:  227 Entering Passive Mode (10,246,251,93,68,49).
+2019-10-21 21:04:35.358360 Sent: RETR testfile1.txt
+2019-10-21 21:04:35.403907 Received:  150 Opening BINARY mode data connection for testfile1.txt (0 bytes).
+2019-10-21 21:04:35.415158 Received:  226 Transfer complete.
+2019-10-21 21:04:48.114236 Sent: PASV
+2019-10-21 21:04:48.146257 Received:  227 Entering Passive Mode (10,246,251,93,93,116).
+2019-10-21 21:04:48.146372 Sent: STOR testfile1.txt
+2019-10-21 21:04:48.187508 Received:  150 Ok to send data.
+2019-10-21 21:04:48.215469 Received:  226 Transfer complete.
+2019-10-21 21:04:57.546105 Sent: QUIT
+2019-10-21 21:04:57.564353 Received:  221 Goodbye.
+2019-10-21 21:04:57.564425 Client quit, connection closed
+2019-10-21 21:05:27.628466 Connecting to 0:0:0:0:0:ffff:af6:fb5d
+2019-10-21 21:05:27.646365 Received:  220 Welcome to CS472 FTP Server
+2019-10-21 21:05:29.704837 Sent: USER cs472
+2019-10-21 21:05:29.722208 Received:  331 Please specify the password.
+2019-10-21 21:05:32.056690 Sent: PASS hw2ftp
+2019-10-21 21:05:32.132114 Received:  230 Login successful.
+2019-10-21 21:05:35.560583 Sent: EPSV 
+2019-10-21 21:05:35.578974 Received:  229 Entering Extended Passive Mode (|||59716|)
+2019-10-21 21:05:35.579078 Sent: LIST 
+2019-10-21 21:05:35.610507 Received:  150 Here comes the directory listing.
+2019-10-21 21:05:35.620317 Received:  226 Directory send OK.
+2019-10-21 21:05:40.384156 Sent: PWD
+2019-10-21 21:05:40.399666 Received:  257 "/home/cs472" is the current directory
+2019-10-21 21:06:04.431140 Sent: PASV
+2019-10-21 21:06:04.459554 Received:  227 Entering Passive Mode (10,246,251,93,196,210).
+2019-10-21 21:06:04.459727 Sent: RETR testing2.txt
+2019-10-21 21:06:04.505773 Received:  150 Opening BINARY mode data connection for testing2.txt (26 bytes).
+2019-10-21 21:06:04.518953 Received:  226 Transfer complete.
+2019-10-21 21:06:22.486548 Sent: PASV
+2019-10-21 21:06:22.506666 Received:  227 Entering Passive Mode (10,246,251,93,41,142).
+2019-10-21 21:06:22.506797 Sent: STOR testing1.txt
+2019-10-21 21:06:22.539352 Received:  150 Ok to send data.
+2019-10-21 21:06:22.564654 Received:  226 Transfer complete.
+2019-10-21 21:06:26.606326 Sent: QUIT
+2019-10-21 21:06:26.623093 Received:  221 Goodbye.
+2019-10-21 21:06:26.623185 Client quit, connection closed

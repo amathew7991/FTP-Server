@@ -1,0 +1,150 @@
+
+2019-10-31 20:56:02.115977 Connecting to 127.0.0.1
+2019-10-31 20:56:02.116217 Received:  logger.pyc
+clientlogs
+2121
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+ftpserver.py
+ftpclient.py
+ds.txt
+.idea
+2019-10-31 21:12:39.231124 Connecting to 127.0.0.1
+2019-10-31 21:12:39.231347 Received:  logger.pyc
+clientlogs
+2121
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+2019-10-31 21:22:10.154292 Connecting to 127.0.0.1
+2019-10-31 21:22:10.154470 Received:  logger.pyc
+2019-10-31 21:23:19.029958 Connecting to 127.0.0.1
+2019-10-31 21:23:19.030173 Received:  logger.pyc
+2019-10-31 22:43:32.213811 Connecting to 144.118.232.33
+2019-10-31 22:43:32.214071 Received:  logger.pyc
+2019-10-31 22:52:28.905342 Connecting to 127.0.0.1
+2019-10-31 22:52:28.905519 Received:  logger.pyc
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+ftpserver.py
+ftpclient.py
+testfile1.txt
+ds.txt
+.idea
+2019-10-31 22:52:56.055277 Connecting to 127.0.0.1
+2019-10-31 22:54:21.708647 Connecting to 127.0.0.1
+2019-10-31 22:54:21.708798 Received:  logger.pyc
+2019-10-31 22:54:29.517059 Connecting to 127.0.0.1
+2019-10-31 23:04:33.774711 Connecting to 10.1.10.31
+2019-10-31 23:04:33.774974 Received:  logger.pyc
+serverlogs.txt
+2019-10-31 23:04:41.958389 Connecting to 10.1.10.31
+2019-10-31 23:06:19.955122 Connecting to 127.0.0.1
+2019-10-31 23:06:19.955323 Received:  logger.pyc
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+ftpserver.py
+ftpclient.py
+testfile1.txt
+ds.txt
+.idea
+2019-10-31 23:06:27.362335 Connecting to 127.0.0.1
+2019-10-31 23:06:48.824720 Connecting to 127.0.0.1
+2019-10-31 23:06:48.824897 Received:  logger.pyc
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+ftpserver.py
+ftpclient.py
+testfile1.txt
+ds.txt
+.idea
+2019-10-31 23:06:56.225278 Connecting to 127.0.0.1
+2019-10-31 23:06:56.225572 Received:  
+2019-10-31 23:09:06.277548 Connecting to 127.0.0.1
+2019-10-31 23:09:06.277728 Received:  
+2019-10-31 23:14:30.377059 Connecting to 10.1.10.31
+2019-10-31 23:14:30.377249 Received:  logger.pyc
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+ftpserver.py
+2019-10-31 23:14:36.000888 Connecting to 10.1.10.31
+2019-10-31 23:14:36.001191 Received:  
+2019-10-31 23:16:36.699359 Connecting to 127.0.0.1
+2019-10-31 23:16:36.699538 Received:  
+2019-10-31 23:20:04.698323 Connecting to 127.0.0.1
+2019-10-31 23:20:04.698477 Received:  
+2019-10-31 23:21:57.759598 Connecting to 127.0.0.1
+2019-10-31 23:21:57.759812 Received:  
+2019-10-31 23:28:44.256759 Connecting to 127.0.0.1
+2019-10-31 23:28:44.256927 Received:  logger.pyc
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+ftpserver.py
+ftpclient.py
+testfile1.txt
+ds.txt
+.idea
+2019-10-31 23:28:51.577207 Connecting to 127.0.0.1
+2019-10-31 23:28:51.580261 Received:  
+2019-10-31 23:30:27.092795 Connecting to 127.0.0.1
+2019-10-31 23:30:27.095382 Received:  
+2019-10-31 23:31:38.770925 Connecting to 127.0.0.1
+2019-10-31 23:31:38.773420 Received:  
+2019-10-31 23:33:21.640655 Connecting to 127.0.0.1
+2019-10-31 23:33:21.643258 Received:  
+2019-10-31 23:34:43.899086 Connecting to 10.1.10.31
+2019-10-31 23:35:17.139094 Connecting to 10.1.10.31
+2019-10-31 23:35:17.141977 Received:  
+2019-11-01 00:01:28.914468 Connecting to 144.118.233.139
+2019-11-01 00:05:20.833424 Connecting to 144.118.233.139
+2019-11-01 00:06:25.437968 Connecting to 144.118.233.139
+2019-11-01 10:04:01.930116 Connecting to 10.250.26.34
+2019-11-01 10:04:01.930357 Received:  logger.pyc
+2019-11-01 10:46:36.390673 Connecting to 10.250.26.34
+2019-11-01 10:46:36.390906 Received:  logger.pyc
+2019-11-01 11:46:12.924475 Connecting to 10.250.26.34
+2019-11-01 11:46:12.924732 Received:  logger.pyc
+2019-11-01 13:08:52.081530 Connecting to 10.250.26.34
+2019-11-01 13:08:52.081695 Received:  logger.pyc
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+ftpserver.py
+ftpclient.py
+testfile1.txt
+ds.txt
+.idea
+2019-11-01 13:10:17.886976 Connecting to 10.250.26.34
+2019-11-01 13:10:17.887162 Received:  logger.pyc
+serverlogs.txt
+authusers.txt
+__pycache__
+clientlogs.txt
+logger.py
+ftpserver.py
+ftpclient.py
+testfile1.txt
+ds.txt
+.idea

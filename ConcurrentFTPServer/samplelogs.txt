@@ -1,0 +1,38 @@
+2019-11-16 17:18:17.818477 Server listening at 10.246.251.13
+2019-11-16 17:18:17.818610 Sent: 220 Welcome to FTP server
+2019-11-16 17:18:22.152107 Received:  USER root
+2019-11-16 17:18:22.152203 Sent: 331 Please specify the password.
+2019-11-16 17:18:25.473495 Received:  PASS root
+2019-11-16 17:18:25.473862 Sent: 230 Login successful.
+2019-11-16 17:18:25.491848 Received:  SYST
+2019-11-16 17:18:25.491951 Sent: 215 System: darwin
+2019-11-16 17:18:32.094482 Received:  PWD
+2019-11-16 17:18:32.094725 Sent: 257 /Users/andreamathew/pycharm-workspace/HW4 is the current directory
+2019-11-16 17:18:34.920936 Received:  PORT 10,246,251,13,194,163
+2019-11-16 17:18:34.921069 Sent: 200 PORT command successful. Consider using PASV
+2019-11-16 17:18:34.937347 Received:  LIST
+2019-11-16 17:18:34.937446 Sent: 150 Here comes the directory listing.
+2019-11-16 17:18:34.952168 Sent: 226 Directory send Ok.
+2019-11-16 17:18:45.952125 Received:  PORT 10,246,251,13,147,107
+2019-11-16 17:18:45.952231 Sent: 200 PORT command successful. Consider using PASV
+2019-11-16 17:18:46.005914 Received:  RETR serverlogs.txt
+2019-11-16 17:18:46.006070 Sent: 150 Opening BINARY mode data connection
+2019-11-16 17:18:46.016615 Sent: 226 Transfer complete.
+2019-11-16 17:18:50.785289 Received:  PORT 10,246,251,13,216,173
+2019-11-16 17:18:50.785396 Sent: 200 PORT command successful. Consider using PASV
+2019-11-16 17:18:50.810576 Received:  STOR serverlogs.txt
+2019-11-16 17:18:50.810684 Sent: 150 Ok to send data.
+2019-11-16 17:18:50.837280 Sent: 226 Transfer complete.
+2019-11-16 17:18:54.407430 Received:  PASV
+2019-11-16 17:18:54.407522 Sent: 500 Passive mode not configured
+2019-11-16 17:18:58.904624 Received:  PASV
+2019-11-16 17:18:58.904725 Sent: 500 Passive mode not configured
+2019-11-16 17:19:02.554100 Received:  PORT 10,246,251,13,226,131
+2019-11-16 17:19:02.554204 Sent: 200 PORT command successful. Consider using PASV
+2019-11-16 17:19:02.571744 Received:  LIST
+2019-11-16 17:19:02.571839 Sent: 150 Here comes the directory listing.
+2019-11-16 17:19:02.594449 Sent: 226 Directory send Ok.
+2019-11-16 17:19:04.707618 Received:  PWD
+2019-11-16 17:19:04.707837 Sent: 257 /Users/andreamathew/pycharm-workspace/HW4 is the current directory
+2019-11-16 17:19:06.312290 Received:  QUIT
+2019-11-16 17:19:06.312387 Sent: 221 Goodbye.
